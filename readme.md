@@ -2,5 +2,8 @@
   - source code management
   - comp: mercurial, svn
 2. github - website, web ui
-  - comp: gitlab.com, https://bitbucket.org/, 
+  - comp: gitlab.com, https://bitbucket.org/
 3. open source sharing, node/javascript `npm`
+
+
+Nick's update from local machine in HK
