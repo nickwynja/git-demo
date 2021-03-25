@@ -8,5 +8,7 @@
 
 Nick's update from local machine in HK
 
-
 Murphy says hello!
+
+hi again
+John made an update.
